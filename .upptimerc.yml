@@ -20,7 +20,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: csmedgas.com Uptime Status by Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  introTitle: "**csmedgas.com** Uptime Monitor powered by Upptime & GitHub"
   introMessage: This repo has been adapted for use by Compliance Solutions LLC to report the uptime status of the primary website.
   navbar:
     - title: Status
