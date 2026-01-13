@@ -1,31 +1,27 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: shawncsmedgas # Your GitHub organization or username, where this repository lives
+repo: upptime-csmedgas # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  - name: Homepage
+    url: https://csmedgas.com/
+    maxResponseTime: 5000
+  - name: Contact Page
+    url: https://csmedgas.com/contact/
+    maxResponseTime: 5000
+  - name: Sitemap
+    url: https://csmedgas.com/sitemap_index.xml
 
 status-website:
+  theme: light
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  baseUrl: /upptime-csmedgas
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  name: csmedgas.com Uptime Status by Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introMessage: This repo has been adapted for use by Compliance Solutions LLC to report the uptime status of the primary website.
   navbar:
     - title: Status
       href: /
