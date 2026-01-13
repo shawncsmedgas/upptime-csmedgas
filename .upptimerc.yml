@@ -24,7 +24,7 @@ status-website:
   introMessage: This repo has been adapted for use by Compliance Solutions LLC to report the uptime status of the primary website.
   navbar:
     - title: Status
-      href: /
+      href: https://shawncsmedgas.github.io/upptime-csmedgas
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
