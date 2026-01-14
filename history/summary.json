@@ -4,53 +4,59 @@
     "url": "https://csmedgas.com/",
     "icon": "https://icons.duckduckgo.com/ip3/csmedgas.com.ico",
     "slug": "homepage",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.94%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
     "time": 732,
-    "timeDay": 732,
+    "timeDay": 365,
     "timeWeek": 732,
     "timeMonth": 732,
     "timeYear": 732,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-14": 1
+    }
   },
   {
     "name": "Contact Page",
     "url": "https://csmedgas.com/contact/",
     "icon": "https://icons.duckduckgo.com/ip3/csmedgas.com.ico",
     "slug": "contact-page",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 124,
-    "timeDay": 124,
+    "timeDay": 80,
     "timeWeek": 124,
     "timeMonth": 124,
     "timeYear": 124,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-14": 1
+    }
   },
   {
     "name": "Sitemap",
     "url": "https://csmedgas.com/sitemap_index.xml",
     "icon": "https://icons.duckduckgo.com/ip3/csmedgas.com.ico",
     "slug": "sitemap",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 237,
-    "timeDay": 237,
+    "timeDay": 42,
     "timeWeek": 237,
     "timeMonth": 237,
     "timeYear": 237,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-14": 0
+    }
   }
 ]
