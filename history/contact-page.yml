@@ -1,7 +1,7 @@
 url: https://csmedgas.com/contact/
-status: up
-code: 200
-responseTime: 1445
-lastUpdated: 2026-03-27T16:07:50.207Z
+status: down
+code: 503
+responseTime: 71
+lastUpdated: 2026-03-27T18:05:04.898Z
 startTime: 2026-01-13T16:09:41.684Z
 generator: Upptime <https://github.com/upptime/upptime>
