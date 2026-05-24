@@ -4,11 +4,11 @@
     "url": "https://csmedgas.com/",
     "icon": "https://icons.duckduckgo.com/ip3/csmedgas.com.ico",
     "slug": "homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "91.88%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.35%",
+    "uptimeDay": "99.32%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "98.32%",
     "uptimeYear": "91.88%",
     "time": 579,
     "timeDay": 251,
@@ -86,7 +86,8 @@
       "2026-05-07": 179,
       "2026-05-06": 13,
       "2026-05-15": 48,
-      "2026-05-16": 54
+      "2026-05-16": 54,
+      "2026-05-24": 10
     }
   },
   {
@@ -94,11 +95,11 @@
     "url": "https://csmedgas.com/contact/",
     "icon": "https://icons.duckduckgo.com/ip3/csmedgas.com.ico",
     "slug": "contact-page",
-    "status": "up",
+    "status": "down",
     "uptime": "90.52%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.25%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "98.24%",
     "uptimeYear": "90.52%",
     "time": 374,
     "timeDay": 146,
@@ -185,7 +186,8 @@
       "2026-05-06": 8,
       "2026-05-10": 62,
       "2026-05-15": 43,
-      "2026-05-16": 49
+      "2026-05-16": 49,
+      "2026-05-24": 5
     }
   },
   {
@@ -193,20 +195,20 @@
     "url": "https://csmedgas.com/sitemap_index.xml",
     "icon": "https://icons.duckduckgo.com/ip3/csmedgas.com.ico",
     "slug": "sitemap",
-    "status": "up",
-    "uptime": "96.53%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "96.55%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.15%",
-    "uptimeYear": "96.53%",
+    "uptimeYear": "96.55%",
     "time": 233,
     "timeDay": 184,
     "timeWeek": 327,
     "timeMonth": 173,
     "timeYear": 233,
     "dailyMinutesDown": {
-      "2026-01-26": 42,
       "2026-01-27": 254,
+      "2026-01-26": 1,
       "2026-01-28": 153,
       "2026-01-30": 166,
       "2026-01-31": 38,
@@ -275,7 +277,8 @@
       "2026-05-07": 169,
       "2026-05-06": 3,
       "2026-05-15": 38,
-      "2026-05-16": 44
+      "2026-05-16": 44,
+      "2026-05-24": 0
     }
   }
 ]
