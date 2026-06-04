@@ -5,13 +5,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/csmedgas.com.ico",
     "slug": "homepage",
     "status": "down",
-    "uptime": "92.00%",
-    "uptimeDay": "92.91%",
-    "uptimeWeek": "95.26%",
-    "uptimeMonth": "96.46%",
-    "uptimeYear": "92.00%",
+    "uptime": "91.89%",
+    "uptimeDay": "82.79%",
+    "uptimeWeek": "92.90%",
+    "uptimeMonth": "95.92%",
+    "uptimeYear": "91.89%",
     "time": 567,
-    "timeDay": 449,
+    "timeDay": 280,
     "timeWeek": 340,
     "timeMonth": 439,
     "timeYear": 567,
@@ -92,7 +92,7 @@
       "2026-05-30": 181,
       "2026-06-01": 181,
       "2026-06-03": 105,
-      "2026-06-04": 10
+      "2026-06-04": 248
     }
   },
   {
@@ -101,13 +101,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/csmedgas.com.ico",
     "slug": "contact-page",
     "status": "down",
-    "uptime": "96.24%",
-    "uptimeDay": "93.25%",
-    "uptimeWeek": "95.46%",
-    "uptimeMonth": "96.63%",
-    "uptimeYear": "96.24%",
+    "uptime": "96.13%",
+    "uptimeDay": "83.13%",
+    "uptimeWeek": "93.10%",
+    "uptimeMonth": "96.09%",
+    "uptimeYear": "96.13%",
     "time": 389,
-    "timeDay": 1147,
+    "timeDay": 1737,
     "timeWeek": 535,
     "timeMonth": 512,
     "timeYear": 389,
@@ -185,7 +185,7 @@
       "2026-05-30": 176,
       "2026-06-01": 177,
       "2026-06-03": 100,
-      "2026-06-04": 5
+      "2026-06-04": 243
     }
   },
   {
@@ -194,13 +194,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/csmedgas.com.ico",
     "slug": "sitemap",
     "status": "down",
-    "uptime": "96.66%",
-    "uptimeDay": "93.58%",
-    "uptimeWeek": "95.65%",
-    "uptimeMonth": "96.54%",
-    "uptimeYear": "96.66%",
+    "uptime": "96.55%",
+    "uptimeDay": "83.46%",
+    "uptimeWeek": "93.29%",
+    "uptimeMonth": "96.00%",
+    "uptimeYear": "96.55%",
     "time": 235,
-    "timeDay": 338,
+    "timeDay": 198,
     "timeWeek": 264,
     "timeMonth": 253,
     "timeYear": 235,
@@ -275,7 +275,7 @@
       "2026-05-30": 171,
       "2026-06-01": 172,
       "2026-06-03": 96,
-      "2026-06-04": 0
+      "2026-06-04": 238
     }
   }
 ]
