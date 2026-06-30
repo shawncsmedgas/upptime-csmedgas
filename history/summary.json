@@ -104,17 +104,17 @@
     "url": "https://csmedgas.com/contact/",
     "icon": "https://icons.duckduckgo.com/ip3/csmedgas.com.ico",
     "slug": "contact-page",
-    "status": "down",
-    "uptime": "96.77%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "98.20%",
-    "uptimeMonth": "97.06%",
-    "uptimeYear": "96.77%",
-    "time": 409,
-    "timeDay": 262,
-    "timeWeek": 586,
-    "timeMonth": 557,
-    "timeYear": 409,
+    "status": "up",
+    "uptime": "96.72%",
+    "uptimeDay": "91.94%",
+    "uptimeWeek": "97.05%",
+    "uptimeMonth": "96.80%",
+    "uptimeYear": "96.72%",
+    "time": 414,
+    "timeDay": 822,
+    "timeWeek": 709,
+    "timeMonth": 588,
+    "timeYear": 414,
     "dailyMinutesDown": {
       "2026-02-11": 318,
       "2026-02-13": 55,
@@ -192,7 +192,7 @@
       "2026-06-18": 138,
       "2026-06-24": 128,
       "2026-06-27": 54,
-      "2026-06-30": 0
+      "2026-06-30": 116
     }
   },
   {
@@ -200,16 +200,16 @@
     "url": "https://csmedgas.com/sitemap_index.xml",
     "icon": "https://icons.duckduckgo.com/ip3/csmedgas.com.ico",
     "slug": "sitemap",
-    "status": "down",
-    "uptime": "97.08%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "98.30%",
-    "uptimeMonth": "96.48%",
-    "uptimeYear": "97.08%",
+    "status": "up",
+    "uptime": "97.03%",
+    "uptimeDay": "91.95%",
+    "uptimeWeek": "97.15%",
+    "uptimeMonth": "96.21%",
+    "uptimeYear": "97.03%",
     "time": 255,
-    "timeDay": 198,
-    "timeWeek": 402,
-    "timeMonth": 370,
+    "timeDay": 220,
+    "timeWeek": 389,
+    "timeMonth": 368,
     "timeYear": 255,
     "dailyMinutesDown": {
       "2026-02-17": 54,
@@ -284,7 +284,7 @@
       "2026-06-18": 138,
       "2026-06-24": 123,
       "2026-06-27": 49,
-      "2026-06-30": 0
+      "2026-06-30": 116
     }
   }
 ]
