@@ -4,17 +4,17 @@
     "url": "https://csmedgas.com/",
     "icon": "https://icons.duckduckgo.com/ip3/csmedgas.com.ico",
     "slug": "homepage",
-    "status": "down",
-    "uptime": "96.30%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "99.15%",
-    "uptimeMonth": "98.51%",
-    "uptimeYear": "96.30%",
-    "time": 574,
-    "timeDay": 424,
-    "timeWeek": 663,
-    "timeMonth": 644,
-    "timeYear": 574,
+    "status": "up",
+    "uptime": "96.27%",
+    "uptimeDay": "95.34%",
+    "uptimeWeek": "98.58%",
+    "uptimeMonth": "98.38%",
+    "uptimeYear": "96.27%",
+    "time": 573,
+    "timeDay": 344,
+    "timeWeek": 619,
+    "timeMonth": 634,
+    "timeYear": 573,
     "dailyMinutesDown": {
       "2026-01-23": 1164,
       "2026-01-22": 600,
@@ -95,7 +95,7 @@
       "2026-06-24": 132,
       "2026-06-27": 59,
       "2026-07-02": 76,
-      "2026-07-05": 10
+      "2026-07-05": 67
     }
   },
   {
@@ -103,17 +103,17 @@
     "url": "https://csmedgas.com/contact/",
     "icon": "https://icons.duckduckgo.com/ip3/csmedgas.com.ico",
     "slug": "contact-page",
-    "status": "down",
-    "uptime": "96.93%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "98.09%",
-    "uptimeMonth": "98.02%",
-    "uptimeYear": "96.93%",
-    "time": 423,
-    "timeDay": 337,
-    "timeWeek": 919,
-    "timeMonth": 621,
-    "timeYear": 423,
+    "status": "up",
+    "uptime": "96.91%",
+    "uptimeDay": "95.68%",
+    "uptimeWeek": "97.52%",
+    "uptimeMonth": "97.89%",
+    "uptimeYear": "96.91%",
+    "time": 422,
+    "timeDay": 240,
+    "timeWeek": 848,
+    "timeMonth": 610,
+    "timeYear": 422,
     "dailyMinutesDown": {
       "2026-02-14": 72,
       "2026-02-15": 33,
@@ -191,7 +191,7 @@
       "2026-06-27": 54,
       "2026-06-30": 116,
       "2026-07-02": 71,
-      "2026-07-05": 5
+      "2026-07-05": 62
     }
   },
   {
@@ -199,16 +199,16 @@
     "url": "https://csmedgas.com/sitemap_index.xml",
     "icon": "https://icons.duckduckgo.com/ip3/csmedgas.com.ico",
     "slug": "sitemap",
-    "status": "down",
-    "uptime": "97.12%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "98.19%",
-    "uptimeMonth": "97.41%",
-    "uptimeYear": "97.12%",
+    "status": "up",
+    "uptime": "97.10%",
+    "uptimeDay": "96.01%",
+    "uptimeWeek": "97.62%",
+    "uptimeMonth": "97.28%",
+    "uptimeYear": "97.10%",
     "time": 258,
-    "timeDay": 250,
-    "timeWeek": 391,
-    "timeMonth": 408,
+    "timeDay": 217,
+    "timeWeek": 372,
+    "timeMonth": 403,
     "timeYear": 258,
     "dailyMinutesDown": {
       "2026-02-18": 27,
@@ -284,7 +284,7 @@
       "2026-06-27": 49,
       "2026-06-30": 116,
       "2026-07-02": 67,
-      "2026-07-05": 0
+      "2026-07-05": 57
     }
   }
 ]
