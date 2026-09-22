@@ -206,17 +206,17 @@
     "url": "https://csmedgas.com/sitemap_index.xml",
     "icon": "https://icons.duckduckgo.com/ip3/csmedgas.com.ico",
     "slug": "sitemap",
-    "status": "down",
-    "uptime": "97.58%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.03%",
-    "uptimeYear": "97.58%",
-    "time": 315,
-    "timeDay": 735,
-    "timeWeek": 380,
-    "timeMonth": 621,
-    "timeYear": 315,
+    "status": "up",
+    "uptime": "97.53%",
+    "uptimeDay": "86.93%",
+    "uptimeWeek": "98.13%",
+    "uptimeMonth": "96.60%",
+    "uptimeYear": "97.53%",
+    "time": 316,
+    "timeDay": 794,
+    "timeWeek": 439,
+    "timeMonth": 628,
+    "timeYear": 316,
     "dailyMinutesDown": {
       "2026-03-14": 31,
       "2026-03-15": 92,
@@ -301,7 +301,7 @@
       "2026-09-11": 232,
       "2026-09-12": 117,
       "2026-09-15": 316,
-      "2026-09-22": 0
+      "2026-09-22": 188
     }
   }
 ]
